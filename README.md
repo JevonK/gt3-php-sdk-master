@@ -5,7 +5,7 @@
 
 使用方法
 --------
-use GeeTest\lib;
+use GeeTest\lib\GeetestLib;
 
 $GtSdk = new GeetestLib(CAPTCHA_ID, PRIVATE_KEY);
 
@@ -13,6 +13,7 @@ $GtSdk = new GeetestLib(CAPTCHA_ID, PRIVATE_KEY);
 修改内容
 --------
 1、添加了命名空间
+2、添加了SDK调试和框架应用两种方式。
 
 
 
