@@ -5,7 +5,7 @@
 
 使用方法
 --------
-use zhanganjie\geetest;
+use GeeTest\lib;
 
 $GtSdk = new GeetestLib(CAPTCHA_ID, PRIVATE_KEY);
 
