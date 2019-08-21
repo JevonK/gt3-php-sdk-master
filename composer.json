@@ -13,7 +13,10 @@
     "autoload": {
         "classmap": [
             "lib"
-        ]
+        ],
+        "psr-4":{
+            "GeeTest\\lib\\":"lib",
+        }
     },
     "license": "MIT"
 }
