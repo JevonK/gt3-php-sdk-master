@@ -1,6 +1,20 @@
 修改内容
 ========
+在基于gt3-SDK的基础上做了修改，以便于项目更好的使用.
+
+
+使用方法
+--------
+use zhanganjie\geetest;
+
+$GtSdk = new GeetestLib(CAPTCHA_ID, PRIVATE_KEY);
+
+
+修改内容
+--------
 1、添加了命名空间
+
+
 
 极验行为验证
 ========
