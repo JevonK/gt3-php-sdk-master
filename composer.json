@@ -11,11 +11,8 @@
         "php": ">=5.0.0"
     },
     "autoload": {
-        "classmap": [
-            "lib"
-        ],
         "psr-4":{
-            "GeeTest\\lib\\":"lib",
+            "GeeTest\\lib\\":"lib"
         }
     },
     "license": "MIT"
